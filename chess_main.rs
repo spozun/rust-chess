@@ -1,4 +1,3 @@
-// cerner_2^5_2019
 mod chess_bishop;
 
 fn main() {
