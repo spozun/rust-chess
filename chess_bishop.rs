@@ -1,5 +1,3 @@
-// cerner_2^5_2019 
-
 pub fn find_valid_bishop_moves(mut _location: u8, _grid: [[u8; 8]; 8]){
   let _start_loc = _location;
   loop{
